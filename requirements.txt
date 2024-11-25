@@ -2,7 +2,7 @@ jax
 flax
 gymnasium
 stable_baselines3
-sbx
+sbx-rl
 optax
 jaxtyping
 tqdm
