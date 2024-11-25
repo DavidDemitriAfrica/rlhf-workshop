@@ -62,6 +62,7 @@ class PreferenceModel(nn.Module):
         r2 = jnp.sum(traj_2_rewards, axis=-1)
 
         # TODO: IMPLEMENT LOSS FUNCTION HERE
+        
         raise NotImplementedError
 
 
